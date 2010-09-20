@@ -16,7 +16,7 @@ HOMEPAGE="http://gribble.sf.net/"
 
 LICENSE="BSD"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64 ~x86"
 IUSE="sqlite twisted"
 
 DEPEND="sqlite? ( <dev-python/pysqlite-1.1 )
