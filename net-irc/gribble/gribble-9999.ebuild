@@ -47,7 +47,7 @@ pkg_postinst() {
 	use twisted && \
 		elog "If you want to use Twisted as your supybot.driver, add it to your"
 		elog "config file: supybot.drivers.module = Twisted."
-		elog "You will need this for SSL connections"
+		elog "You will need this for SSL connections."
 	use twisted || \
 		elog "To allow supybot to use Twisted as driver, re-emerge with"
 		elog "USE=\"twisted\" flag. You will need this for SSL Connections"
