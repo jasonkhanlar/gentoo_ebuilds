@@ -3,14 +3,14 @@
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
     <name>gentoo_ebuilds</name>
-    <description>gentoo ebuilds from mizeryderia</description>
-    <homepage>http://github.com/mizerydearia/gentoo_ebuilds</homepage>
+    <description>gentoo ebuilds from Anita Evans</description>
+    <homepage>http://github.com/anita713/gentoo_ebuilds</homepage>
     <owner>
-      <email>mizerydearia@gmail.com</email>
-      <name>mizerydearia</name>
+      <email>evansanita713@gmail.com</email>
+      <name>anita</name>
     </owner>
-    <source type="git">git://github.com/mizerydearia/gentoo_ebuilds.git</source>
-    <source type="git">http://github.com/mizerydearia/gentoo_ebuilds.git</source>
-    <feed>http://github.com/feeds/mizerydearia/commits/gentoo_ebuilds/master</feed>
+    <source type="git">git://github.com/Anita Evans/gentoo_ebuilds.git</source>
+    <source type="git">http://github.com/anita713/gentoo_ebuilds.git</source>
+    <feed>http://github.com/feeds/AnitaEvans/commits/gentoo_ebuilds/master</feed>
   </repo>
 </repositories>
